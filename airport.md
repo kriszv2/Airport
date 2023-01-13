@@ -1,4 +1,4 @@
-# Airport challenge
+# Airport
 
 | Objects | Properties                | Messages          | Outputs |
 | ------- | ------------------------- | ----------------- | ------- |
